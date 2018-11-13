@@ -1,2 +1,2 @@
 # Hello-world
-Learning how to step a repository
+Learning how to start a repository
